@@ -323,7 +323,7 @@ Through this project, I gained hands-on experience with:
 ## 👤 Author
 
 **Gowthami**
-- GitHub: [@Gowthami-bot](https://github.com/Gowthami)
+- GitHub: [@Gowthami-bot](https://github.com/Gowthami-bot)
 - LinkedIn: [gowthami-v-s-a-44099a328](www.linkedin.com/in/gowthami-v-s-a-44099a328)
 
 ---
