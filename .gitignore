@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Temporary Files
+temp/
+
+# FAISS Index
+faiss_index/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
