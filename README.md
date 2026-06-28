@@ -39,16 +39,22 @@ PDF RAG Chatbot is a document-grounded question answering system built with a mu
 ## 📸 Screenshots
 
 > **Upload and Chat**
-> `[Screenshot placeholder — add your screenshot here]`
+> <img width="1917" height="962" alt="chat" src="https://github.com/user-attachments/assets/2ea4e6d7-0f4b-4981-8a58-5df857e11569" />
+
 
 > **Answer with Source Pages**
-> `[Screenshot placeholder — add your screenshot here]`
+> <img width="1917" height="907" alt="answer" src="https://github.com/user-attachments/assets/73443a20-17f1-42b5-a985-f7b09a25351f" />
+
 
 > **Retrieval Evaluation Panel**
-> `[Screenshot placeholder — add your screenshot here]`
+> <img width="1915" height="902" alt="evaluation" src="https://github.com/user-attachments/assets/9c6b7c32-b35a-4a46-be84-93e641b9c8f3" />
+
+
 
 > **Retrieved Chunks Expander**
-> `[Screenshot placeholder — add your screenshot here]`
+> <img width="1917" height="910" alt="retrieval" src="https://github.com/user-attachments/assets/28d74229-0ff9-46cf-bc61-f38ce3468106" />
+
+
 
 ---
 
