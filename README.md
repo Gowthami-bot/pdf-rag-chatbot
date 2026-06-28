@@ -1,3 +1,5 @@
+
+
 # 📚 PDF RAG Chatbot
 
 > A production-style Retrieval-Augmented Generation (RAG) chatbot that lets you have an intelligent conversation with any PDF document — powered by LangChain, FAISS, CrossEncoder reranking, and Groq Llama 3.3.
@@ -30,9 +32,17 @@ PDF RAG Chatbot is a document-grounded question answering system built with a mu
 
 ## 🎬 Demo
 
-> 📹 **Demo video coming soon**
+> 📹 **Watch a short demonstration of the chatbot below.**
 >
-> ![App Demo](video/demo.mp4)
+https://github.com/user-attachments/assets/85ae5c2e-8228-44b6-9a62-bfc224a2b2b8
+> 
+
+
+
+
+
+
+
 
 ---
 
