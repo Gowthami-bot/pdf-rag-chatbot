@@ -32,7 +32,7 @@ PDF RAG Chatbot is a document-grounded question answering system built with a mu
 
 > 📹 **Demo video coming soon**
 >
-> [![Demo Video](https://img.shields.io/badge/Watch-Demo-red?style=for-the-badge&logo=youtube)](https://github.com)
+> ![App Demo](video/demo.mp4)
 
 ---
 
